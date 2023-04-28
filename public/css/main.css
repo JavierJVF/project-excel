@@ -1,0 +1,16 @@
+.box-form{
+    width: 40%;
+    background-color: #c2c2c2;
+    padding: 2rem;
+}
+
+
+.button-send{
+    border-radius: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+.espacio-hotizontal-100px{
+    padding-top: 100px;
+}
